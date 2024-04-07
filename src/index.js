@@ -87,7 +87,7 @@ document.addEventListener("DOMContentLoaded", function() {
           showtime: "4:00PM",
           ticketCount: 3,
           description: "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
-          poster: "/assets/p2157_v_v8_ab.png"
+          poster: "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
         },
         {
           title: "Manos: The Hands of Fate",
@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", function() {
           showtime: "6:45PM",
           ticketCount: 6,
           description: "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
-          poster: "/assets/p47781_v_v8_ac.png"
+          poster: "https://www.gstatic.com/tv/thumb/v22vodart/47781/p47781_v_v8_ac.jpg"
         }];
     
       // Populate the films list
