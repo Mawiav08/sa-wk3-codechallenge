@@ -96,9 +96,7 @@ document.addEventListener("DOMContentLoaded", function() {
           ticketCount: 6,
           description: "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
           poster: "/assets/p47781_v_v8_ac.png"
-        }
-        // Add more movie objects as needed
-      ];
+        }];
     
       // Populate the films list
       populateFilmsList(movies);
