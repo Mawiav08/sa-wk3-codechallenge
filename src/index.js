@@ -99,7 +99,7 @@ var movies = [
   },
   {
     title: "Time Chasers",
-    runtime: "93",
+    runtime: "93 minutes",
     showtime: "09:30PM",
     ticketCount: 19,
     description: "An inventor comes up with a time machine, but must prevent its abuse at the hands of an evil C.E.O.",
@@ -107,7 +107,7 @@ var movies = [
   },
   {
     title: "The Touch Of Satan",
-    runtime: "101",
+    runtime: "101 minutes",
     showtime: "09:00PM",
     ticketCount: 9,
     description: "A young man meets a farm girl who is actually a witch.",
@@ -115,7 +115,7 @@ var movies = [
   },
   {
     title: "Santa Claus Conquers The Martians",
-    runtime: "96",
+    runtime: "96 minutes",
     showtime: "03:30PM",
     ticketCount: 5,
     description: "The Martians kidnap Santa Claus because there is nobody on Mars to give their children presents.",
@@ -123,7 +123,7 @@ var movies = [
   },
   {
     title: "Track Of The Moon Beast",
-    runtime: "112",
+    runtime: "112 minutes",
     showtime: "10:30PM",
     ticketCount: 14,
     description: "A young man is transformed into a hideous 'moon beast' due to a meteor fragment lodged in his body.",
@@ -131,7 +131,7 @@ var movies = [
   },
   {
     title: "The Skydivers",
-    runtime: "94",
+    runtime: "94 minutes",
     showtime: "07:30PM",
     ticketCount: 8,
     description: "A woman seeks revenge on her former lover, who owns a skydiving business.",
@@ -139,7 +139,7 @@ var movies = [
   },
   {
     title: "The Killer Shrews",
-    runtime: "115",
+    runtime: "115 minutes",
     showtime: "08:30PM",
     ticketCount: 8,
     description: "On an isolated island, a small group of people are terrorized by giant voracious shrews in the midst of a hurricane.",
@@ -147,7 +147,7 @@ var movies = [
   },
   {
     title: "Project Moon Base",
-    runtime: "99",
+    runtime: "99 minutes",
     showtime: "07:30PM",
     ticketCount: 18,
     description: "A saboteur posing as a scientist strives to destroy the world's first space station.",
@@ -155,7 +155,7 @@ var movies = [
   },
   {
     title: "The Giant Spider Invasion",
-    runtime: "122",
+    runtime: "122 minutes",
     showtime: "10:00PM",
     ticketCount: 6,
     description: "Giant spiders from another dimension invade Wisconsin.",
@@ -163,7 +163,7 @@ var movies = [
   },
   {
     title: "Catalina Caper",
-    runtime: "104",
+    runtime: "104 minutes",
     showtime: "06:00PM",
     ticketCount: 18,
     description: "A group of swingin' teens take time out from having fun in the sun to try to foil a group of crooks searching for a stolen scroll.",
@@ -171,7 +171,7 @@ var movies = [
   },
   {
     title: "Secret Agent Super Dragon",
-    runtime: "104",
+    runtime: "104 minutes",
     showtime: "07:00PM",
     ticketCount: 10,
     description: "A series of murders in Michigan lead an American secret agent to Amsterdam, where he uncovers a plot to imperil the world with a potent new drug.",
@@ -179,7 +179,7 @@ var movies = [
   },
   {
     title: "Wild Rebels",
-    runtime: "100",
+    runtime: "100 minutes",
     showtime: "09:00PM",
     ticketCount: 9,
     description: "A stock car driver goes undercover as the wheel man for a motorcycle gang.",
@@ -187,7 +187,7 @@ var movies = [
   },
   {
     title: "Danger: Diabolik",
-    runtime: "111",
+    runtime: "111 minutes",
     showtime: "08:00PM",
     ticketCount: 10,
     description: "International man of mystery Diabolik and his lover pull off heist after heist, all while European cops led by Inspector Ginko and envious mobsters led by Ralph Valmont are closing in on them.",
@@ -195,7 +195,7 @@ var movies = [
   },
   {
     title: "Village Of The Giants",
-    runtime: "98",
+    runtime: "98 minutes",
     showtime: "04:45PM",
     ticketCount: 17,
     description: "Delinquent teen-agers ingest a substance and grow thirty feet tall, then proceed to take over a small town.",
