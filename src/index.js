@@ -1,6 +1,20 @@
 // Your code here
 document.addEventListener("DOMContentLoaded", function () {
 
+    // Function to fetch movie data from an API
+    function fetchMovies() {
+      fetch("http://localhost:3000/films")
+        .then(response => response.json())
+        .then(data => {
+          // Populate the films list with fetched movie data
+          populateFilmsList(data.movies);
+        })
+        .catch(error => console.error("Error fetching movies:", error));
+    }
+  
+    // Call fetchMovies function to populate films list when the DOM content is loaded
+    fetchMovies();
+
   // Get the buy ticket button
   var buyTicketButton = document.getElementById("buy-ticket");
 
@@ -79,7 +93,7 @@ function updateMovieDetails(movie) {
   }
 }
 
-// Sample array of movie objects
+// // Sample array of movie objects
 var movies = [
   {
     title: "The Giant Gila Monster",
